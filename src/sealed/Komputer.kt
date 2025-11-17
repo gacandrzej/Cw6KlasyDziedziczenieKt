@@ -2,6 +2,7 @@ package sealed
 
 import komputery.Komputer
 
+
 sealed class Komputer(
     var producent: String = "",
     var model: String = "",
