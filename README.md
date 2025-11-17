@@ -1,4 +1,4 @@
-# Klasy, dziedziczenie, polimorfizm w Javie
+# Klasy, dziedziczenie, polimorfizm w Kotlinie
 
 ![Build Status](https://github.com/gacandrzej/Cw6JavaKlasyDziedziczenie/actions/workflows/build.yml/badge.svg)
 
